@@ -14,7 +14,7 @@
 ## ディレクトリ構造  
  ルート  
 　├ [css] … サイトで使用するCSSファイル  
-　│　├ bootstrap.min.css … Bootstrapの標準CSS 
+　│　├ bootstrap.min.css … Bootstrapの標準CSS  
 　│　├ common.css … 共通CSS  
 　│　└ pagename.css … フォームCSS  
 　│    
