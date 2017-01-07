@@ -1,0 +1,33 @@
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+┏┓
+┗■ INDEX
+
+|   01.フォーム
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+/*--------------------
+    01.フォーム
+--------------------*/
+.contact__title{
+    padding-left: 15px;
+}
+.contact__title__text{
+    display: inline-block;
+    font-size: 30px;
+    line-height: 50px;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}
+.contact__form {
+    background-color: #fff;
+    border: 1px solid #DADADA;
+    clear: both;
+    margin-bottom:3rem;
+    overflow: hidden;
+    padding: 30px;
+}
+textarea{
+    min-height:10rem;
+}
